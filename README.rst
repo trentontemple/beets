@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftrentontemple%2Fbeets.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftrentontemple%2Fbeets?ref=badge_shield)
+
 .. image:: https://img.shields.io/pypi/v/beets.svg
     :target: https://pypi.python.org/pypi/beets
 
@@ -127,3 +129,7 @@ Authors
 Beets is by `Adrian Sampson`_ with a supporting cast of thousands.
 
 .. _Adrian Sampson: https://www.cs.cornell.edu/~asampson/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftrentontemple%2Fbeets.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftrentontemple%2Fbeets?ref=badge_large)
